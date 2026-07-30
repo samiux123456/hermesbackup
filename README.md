@@ -6,13 +6,12 @@
 
 | فایل | توضیح | تعداد |
 |------|-------|-------|
-| `names.txt` | اسامی رایج | ۱۱۹ |
-| `surnames.txt` | فامیل‌ها | ۹۵ |
 | `persian_names.txt` | اسامی کامل ایرانی | ۶,۹۷۹ |
+| `surnames.txt` | فامیل‌ها | ۹۵ |
 | `fruits.txt` | میوه‌ها | ۵۸ |
 | `colors.txt` | رنگ‌ها | ۶۵ |
 | `cities.txt` | شهرها | ۸۴ |
-| `countries.txt` | کشورها | ۸۰ |
+| `countries.txt` | کشورها | ۱۹۶ |
 | `cars.txt` | ماشین‌ها | ۷۴ |
 | `animals.txt` | حیوانات | ۹۱ |
 | `objects.txt` | اشیا | ۷۵ |
@@ -25,11 +24,11 @@
 
 ```python
 # لود کردن اسامی
-with open('names.txt', 'r', encoding='utf-8') as f:
+with open('persian_names.txt', 'r', encoding='utf-8') as f:
     names = [line.strip() for line in f]
 ```
 
 ## 📊 جمع کل:
 - **اسامی:** ۶,۹۷۹
+- **کشورها:** ۱۹۶
 - **دسته‌بندی‌ها:** ۱۳
-- **مجموع آیتم‌ها:** ~۱,۱۰۰+
