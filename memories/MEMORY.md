@@ -1,0 +1,5 @@
+Project "NoVa" (Nova Organization & Virtual Assistant): Telegram multi-account management platform. Python 3.11+, Telethon, SQLAlchemy async, Redis, kernel-based architecture. Spec doc at /data/.hermes/cache/documents/doc_bbd691e516f4_پروژه.md. User wanted simplified Phase 1 approach. Project dir: /data/workspace/nova (structure created but coding not started yet).
+§
+In group "My Dash": ONLY respond when someone replies to one of my messages (Telegram reply). Don't respond to greetings, name-calls, or general messages. Even "داش" or "سلام" don't count — only actual Telegram reply to my message.
+§
+Telegram group config: `telegram.require_mention` and `telegram.allow_from` are the correct keys (NOT `group_reply_mode`). Always use `hermes config set`, never hand-edit config.yaml. Restart gateway after changes.

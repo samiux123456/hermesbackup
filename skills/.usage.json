@@ -1,0 +1,93 @@
+{
+  "github-auth": {
+    "archived_at": null,
+    "created_at": "2026-07-28T19:27:18.589624+00:00",
+    "created_by": null,
+    "last_patched_at": null,
+    "last_used_at": "2026-07-28T19:27:18.593655+00:00",
+    "last_viewed_at": "2026-07-28T19:27:18.589640+00:00",
+    "patch_count": 0,
+    "pinned": false,
+    "state": "active",
+    "use_count": 1,
+    "view_count": 1
+  },
+  "hermes-agent": {
+    "archived_at": null,
+    "created_at": "2026-07-28T19:26:53.972242+00:00",
+    "created_by": null,
+    "last_patched_at": null,
+    "last_used_at": "2026-07-30T01:39:04.279208+00:00",
+    "last_viewed_at": "2026-07-30T01:39:04.273405+00:00",
+    "patch_count": 0,
+    "pinned": false,
+    "state": "active",
+    "use_count": 6,
+    "view_count": 6
+  },
+  "hermes-backup-restore": {
+    "archived_at": null,
+    "created_at": "2026-07-31T04:45:18.085471+00:00",
+    "created_by": "agent",
+    "last_patched_at": "2026-07-31T04:59:54.977354+00:00",
+    "last_used_at": "2026-07-31T04:59:41.749578+00:00",
+    "last_viewed_at": "2026-07-31T04:59:41.647294+00:00",
+    "patch_count": 5,
+    "pinned": false,
+    "state": "active",
+    "use_count": 6,
+    "view_count": 6
+  },
+  "hermes:scheduled-task-setup": {
+    "archived_at": null,
+    "created_at": "2026-07-31T04:58:17.792795+00:00",
+    "created_by": null,
+    "last_patched_at": null,
+    "last_used_at": "2026-07-31T04:58:17.795471+00:00",
+    "last_viewed_at": "2026-07-31T04:58:17.792815+00:00",
+    "patch_count": 0,
+    "pinned": false,
+    "state": "active",
+    "use_count": 1,
+    "view_count": 1
+  },
+  "humanizer": {
+    "archived_at": null,
+    "created_at": "2026-07-29T17:45:59.554060+00:00",
+    "created_by": null,
+    "last_patched_at": null,
+    "last_used_at": "2026-07-29T17:45:59.560329+00:00",
+    "last_viewed_at": "2026-07-29T17:45:59.554076+00:00",
+    "patch_count": 0,
+    "pinned": false,
+    "state": "active",
+    "use_count": 1,
+    "view_count": 1
+  },
+  "persian-user-interaction": {
+    "archived_at": null,
+    "created_at": "2026-07-29T17:46:48.916273+00:00",
+    "created_by": "agent",
+    "last_patched_at": "2026-07-29T20:02:40.435084+00:00",
+    "last_used_at": "2026-07-30T02:40:17.197493+00:00",
+    "last_viewed_at": "2026-07-30T02:40:17.193614+00:00",
+    "patch_count": 8,
+    "pinned": false,
+    "state": "active",
+    "use_count": 11,
+    "view_count": 11
+  },
+  "scheduled-task-setup": {
+    "archived_at": null,
+    "created_at": "2026-07-28T19:28:27.643421+00:00",
+    "created_by": "agent",
+    "last_patched_at": "2026-07-31T04:39:33.806686+00:00",
+    "last_used_at": "2026-07-31T04:58:14.721125+00:00",
+    "last_viewed_at": "2026-07-31T04:58:14.718466+00:00",
+    "patch_count": 12,
+    "pinned": false,
+    "state": "active",
+    "use_count": 21,
+    "view_count": 21
+  }
+}
